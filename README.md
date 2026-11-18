@@ -16,10 +16,10 @@ I turn ambitious ideas into responsive interfaces and connected web applications
 **3rd Year / Diploma in Information Technology**  
 Polytechnic, The Maharaja Sayajirao University of Baroda
 
-[![Portfolio source](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smitpatil1959-design/MyPortfolio)
+[![Live portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-B91C3C?style=for-the-badge&logo=vercel&logoColor=white)](https://smit-patil-portfolio-eight.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-B91C3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitpatil2008/)
 
-<sub>The portfolio button opens its source repository. Explore the two live products below.</sub>
+<sub>Explore my live portfolio and the two featured products below.</sub>
 
 </div>
 
@@ -80,6 +80,7 @@ Two projects that bring together my interests in **frontend engineering**, **ful
 
 My personal portfolio brings together my projects, academic background, and focus on interactive frontend experiences. Built with **HTML, CSS, and JavaScript**.
 
+[![Open live portfolio](https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-B91C3C?style=for-the-badge&logo=vercel&logoColor=white)](https://smit-patil-portfolio-eight.vercel.app/)
 [![View portfolio repository](https://img.shields.io/badge/VIEW_PORTFOLIO_SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smitpatil1959-design/MyPortfolio)
 
 ### 03 / What I build with
